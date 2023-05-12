@@ -1,5 +1,6 @@
 public class MyTrainApplication {
     public static void main() {
-to jest new
+        System.out.println("to jest new");
+
     }
 }
